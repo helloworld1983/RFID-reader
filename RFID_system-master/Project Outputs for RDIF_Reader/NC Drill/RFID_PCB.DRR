@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: RFID_PCB.PcbDoc   11.07.2019  13:12:32
+NCDrill File Report For: RFID_PCB.PcbDoc   8/5/2019  9:00:28 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,7 +8,7 @@ ASCII SlotHoles File : RFID_PCB-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             602       PTH        0.00mm (0.00inch)
+T1      0.3mm (12mil)                                             Round             687       PTH        0.00mm (0.00inch)
 T2      0.4mm (16mil)                                             Round             14        PTH        0.00mm (0.00inch)
 T3      0.6mm (24mil)                                             Round             61        PTH        0.00mm (0.00inch)
 T4      0.6mm (24mil)                                             Slot              4         PTH        0.00mm (0.00inch)
@@ -18,6 +18,6 @@ T7      1mm (39mil)                                               Slot          
 T8      2mm (79mil)                                               Round             8         PTH        0.00mm (0.00inch)
 T9      2.794mm (110mil)                                          Round             2         PTH        0.00mm (0.00inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              786
+Totals                                                                              871
 
-Total Processing Time (hh:mm:ss) : 00:00:00
+Total Processing Time (hh:mm:ss) : 00:00:01

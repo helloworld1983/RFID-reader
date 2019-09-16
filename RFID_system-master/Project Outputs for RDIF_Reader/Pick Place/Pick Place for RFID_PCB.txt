@@ -1,16 +1,25 @@
 Altium Designer Pick and Place Locations
-C:\Users\Michal\Desktop\Projekty\RFID reader\RFID_system-master\Project Outputs for RDIF_Reader\Pick Place\Pick Place for RFID_PCB.txt
+C:\Users\micha\Desktop\Projekty\RFID reader\RFID_system-master\Project Outputs for RDIF_Reader\Pick Place\Pick Place for RFID_PCB.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       11.07.19
-Time:       13:12
-Revision:   Not in VersionControl
+Date:       05/08/19
+Time:       21:00
+Revision:   afca80ba489b6bb8bdda0923d017308662d36cc9
 Variant:    No variations
 Units used: mil
 
 Designator Comment                    Layer    Footprint                  Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                                       
+D2         SM6T15CA                   TopLayer DIOM5436X265N              6733.638      2458.552      270      "Transient Voltage Suppressor Diode (Bi-Directional)"                                                                                             
+C31H       18pF                       TopLayer CAPC1005X55N               1784.252      3944.095      90       "Non-polarised capacitor"                                                                                                                         
+C31G       18pF                       TopLayer CAPC1005X55N               3220.472      3782.284      90       "Non-polarised capacitor"                                                                                                                         
+C31F       18pF                       TopLayer CAPC1005X55N               3181.890      3029.488      270      "Non-polarised capacitor"                                                                                                                         
+C31E       18pF                       TopLayer CAPC1005X55N               1750.258      2967.474      90       "Non-polarised capacitor"                                                                                                                         
+C31D       18pF                       TopLayer CAPC1005X55N               1822.835      1803.150      90       "Non-polarised capacitor"                                                                                                                         
+C31C       18pF                       TopLayer CAPC1005X55N               3156.381      1999.397      270      "Non-polarised capacitor"                                                                                                                         
+C31B       18pF                       TopLayer CAPC1005X55N               4823.189      2921.290      360      "Non-polarised capacitor"                                                                                                                         
+C31A       18pF                       TopLayer CAPC1005X55N               4559.055      1868.110      90       "Non-polarised capacitor"                                                                                                                         
 DL10       Red                        TopLayer LED_OSRAM_LSR976           5322.047      4974.599      90       "LED Red 1C 2A"                                                                                                                                   
 DL9        Red                        TopLayer LED_OSRAM_LSR976           6025.984      4974.599      90       "LED Red 1C 2A"                                                                                                                                   
 DL8        Red                        TopLayer LED_OSRAM_LSR976           5500.787      4974.599      90       "LED Red 1C 2A"                                                                                                                                   
@@ -52,12 +61,12 @@ C28        1uF                        TopLayer CAPC1005X55N               6566.9
 R30        8k87                       TopLayer RESC1608X55N               6566.929      2476.378      180      "Resistor - 0.1%"                                                                                                                                 
 R29        100k                       TopLayer RESC1005X40N               6484.252      2476.378      270      "Resistor - 1%"                                                                                                                                   
 R28        1k                         TopLayer RESC1608X50N               6350.394      2472.441      180      "Resistor - 1%"                                                                                                                                   
-R27        47k                        TopLayer RESC1005X40N               6291.339      2532.677      180      "Resistor - 1%"                                                                                                                                   
+R27        47k                        TopLayer RESC1005X40N               6562.850      2726.538      180      "Resistor - 1%"                                                                                                                                   
 R26        100k                       TopLayer RESC1005X40N               6440.945      2476.378      90       "Resistor - 1%"                                                                                                                                   
-L3         120R@100MHz                TopLayer INDC1608X65N               6736.221      2641.732      180      Inductor                                                                                                                                          
-J6         DC2020                     TopLayer DC2020                     6999.016      2629.921      270      "Low Voltage Power Supply Connector (maritex)"                                                                                                    
-C27        22uF                       TopLayer CAPC2012X135N              6291.339      2641.732      270      "Non-polarised capacitor"                                                                                                                         
-C26        22uF                       TopLayer CAPC2012X135N              6212.598      2641.732      270      "Non-polarised capacitor"                                                                                                                         
+L3         120R@100MHz                TopLayer INDC1608X65N               6735.342      2640.854      180      Inductor                                                                                                                                          
+J6         PC-GK2.1                   TopLayer DC2020                     6999.016      2629.921      270      "Low Voltage Power Supply Connector (maritex)"                                                                                                    
+C27        22uF                       TopLayer CAPC2012X135N              6559.213      2787.402      180      "Non-polarised capacitor"                                                                                                                         
+C26        22uF                       TopLayer CAPC2012X135N              6559.055      2862.205      180      "Non-polarised capacitor"                                                                                                                         
 C25        10uF                       TopLayer CAPC2012X135N              6629.921      2653.543      270      "Non-polarised capacitor"                                                                                                                         
 R22        5k1                        TopLayer RESC1005X40N               6885.827      4407.362      180      "Resistor - 1%"                                                                                                                                   
 L2         120R@100MHz                TopLayer INDC1608X65N               6748.032      4488.189      180      Inductor                                                                                                                                          
@@ -119,11 +128,11 @@ R21D       10k                        TopLayer RESC1608X50N               3082.6
 R21C       10k                        TopLayer RESC1608X50N               4399.606      1614.173      270      "Resistor - 1%"                                                                                                                                   
 R21B       10k                        TopLayer RESC1608X50N               5440.945      3555.118      360      "Resistor - 1%"                                                                                                                                   
 R21A       10k                        TopLayer RESC1608X50N               5830.898      2149.606      270      "Resistor - 1%"                                                                                                                                   
-C20        100nF                      TopLayer CAPC1608X87N               6051.181      3175.106      90       "Non-polarised capacitor"                                                                                                                         
+C20        100nF                      TopLayer CAPC1608X87N               6033.465      3181.102      180      "Non-polarised capacitor"                                                                                                                         
 C19        100nF                      TopLayer CAPC1608X87N               6329.528      2879.528      270      "Non-polarised capacitor"                                                                                                                         
 C18        100nF                      TopLayer CAPC1608X87N               6393.701      2877.953      270      "Non-polarised capacitor"                                                                                                                         
 C17        22uF                       TopLayer CAPAE430X540N              6496.063      3051.181      90       "Polarised capacitor"                                                                                                                             
-C21        22uF                       TopLayer CAPAE430X540N              6455.709      3375.000      90       "Polarised capacitor"                                                                                                                             
+C21        22uF                       TopLayer CAPAE430X540N              6455.709      3375.000      270      "Polarised capacitor"                                                                                                                             
 C22        22uF                       TopLayer CAPAE430X540N              5988.189      3992.126      90       "Polarised capacitor"                                                                                                                             
 U1         ATxmega16A4U-AU            TopLayer 44A_N                      5340.000      4235.000      90       "8/16-bit AVR XMEGA A4 Microcontroller, 1.6-3.6V, 16KB + 4KB Flash, 1KB EEPROM, 2KB SRAM, 44-pin TQFP, Industrial Grade (-40°C to 85°C), Pb-Free" 
 C3G        22uF                       TopLayer CAPAE430X540N              3806.693      3851.102      270      "Polarised capacitor"                                                                                                                             

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=USBDN Pin=J5-B6
+Removed Pin From Net: NetName=USBDP Pin=J5-B7
+Removed Pin From Net: NetName=CC1 Pin=J5-B8
+Added Pin To Net: NetName=CC1 Pin=J5-B5
+Added Pin To Net: NetName=USBDP Pin=J5-B6
+Added Pin To Net: NetName=USBDN Pin=J5-B7
